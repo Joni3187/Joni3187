@@ -1,6 +1,6 @@
-Hello World!
+# Hello World!
 
-About Me:
+## About Me:
 - 👋 Hi, I’m @Joni3187
 - 😎 My name is John.
 - 👀 I’m interested in Full Stack Development.
@@ -8,19 +8,14 @@ About Me:
 - 🌐 I’m looking to collaborate on web development, front-end, and back-end development. 
 - 📫 How to reach me m3ndo187a@yahoo.com
 
-Joni Social Media:
-Twitter:
-- https://twitter.com/joni_eren
-Code Pen:
-- https://codepen.io/joni_eren
-LinkedIn:
-- https://www.linkedin.com/in/johnathon-mendoza/
+## Joni Social Media:
+- Twitter: https://twitter.com/joni_eren
+- Code Pen: https://codepen.io/joni_eren
+- LinkedIn: https://www.linkedin.com/in/johnathon-mendoza/
 
-Web Dev - Code Camps:
-Free Code Camp
-- https://www.freecodecamp.org/
-Udemy
-- https://www.udemy.com/
+## Web Dev - Code Camps:
+- Free Code Camp: https://www.freecodecamp.org/
+- Udemy: https://www.udemy.com/
 
 
 <!---
