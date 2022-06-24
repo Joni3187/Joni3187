@@ -8,6 +8,10 @@
 - 🌐 I’m looking to collaborate on web development, front-end, and back-end development. 
 - 📫 How to reach me m3ndo187a@yahoo.com
 
+## GitHub Repo
+- Joni3187 Landing: https://joni3187.github.io/
+- Joni CV: https://joni3187.github.io/Joni-CV/
+
 ## Joni Social Media:
 - Twitter: https://twitter.com/joni_eren
 - Code Pen: https://codepen.io/joni_eren
@@ -17,9 +21,9 @@
 - Free Code Camp: https://www.freecodecamp.org/
 - Udemy: https://www.udemy.com/
 
-
-
-
+## Resources:
+- Bootstrap: https://getbootstrap.com/
+- W3 Schools: https://www.w3schools.com/
 
 
 
