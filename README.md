@@ -7,7 +7,7 @@
  on web development, front-end, and back-end development.<br>
  📫 How to reach me nathon.eren@gmail.com
 
-## GitHub Repos:
+## GitHub Pages:
 - Landing Page: https://joni3187.github.io/
 - Joni CV: https://joni3187.github.io/Joni-CV/
 
