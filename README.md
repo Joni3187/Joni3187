@@ -8,19 +8,20 @@
 - 📫 How to reach me nathon.eren@gmail.com
 
 ## GitHub Repos:
-- Joni3187 Landing: https://joni3187.github.io/
+- Landing Page: https://joni3187.github.io/
 - Joni CV: https://joni3187.github.io/Joni-CV/
 
-## Joni Social Media:
+## Social Media:
 - Twitter: https://twitter.com/joni_eren
 - Code Pen: https://codepen.io/joni_eren
 - LinkedIn: https://www.linkedin.com/in/johnathon-mendoza/
 
 ## Resources:
+- Stack Overflow: https://stackoverflow.com/
 - Bootstrap: https://getbootstrap.com/
 - W3 Schools: https://www.w3schools.com/
 
-## Web Dev - Code Camps:
+## Code Bootcamps:
 - Free Code Camp: https://www.freecodecamp.org/
 - Udemy: https://www.udemy.com/
 
