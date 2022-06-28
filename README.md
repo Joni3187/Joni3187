@@ -1,11 +1,9 @@
 # Joni3187 - GitHub - README!
 
 ## About Me:
-👋 Hello World, I’m @Joni3187 - but you can call me John! 😎<br>
- I’m interested 👀 in Web Development. 💻 I recently completed a Full Stack<br>
- Web Development bootcamp through MIT xPRO. 🌐 I’m looking to collaborate<br>
- on web development, front-end, and back-end development.<br>
- 📫 How to reach me nathon.eren@gmail.com
+ 👋 Hello World, I’m @Joni3187 - but you can call me John! 😎 I’m interested in Web Development 👀. I recently completed a Full Stack <br>
+ Web Development bootcamp 💻 through MIT xPRO. 🌐 I’m looking to collaborate on front-end, back-end, and web development. <br>
+ I live in my hometown Houston, Texas.  📫 How to reach me nathon.eren@gmail.com
 
 ## GitHub Pages:
 - Landing Page: https://joni3187.github.io/
