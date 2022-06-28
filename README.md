@@ -4,7 +4,7 @@
  👋 Hello World, I’m @Joni3187 - but you can call me John! 😎 I am from Houston Texas 🤠 <br>
  I’m interested in Web Development 👀 coding after dark and long walks on the beach. <br>
  I recently completed a Full Stack - MERN - Web Development bootcamp 💻 through MIT xPRO. <br>
- 🌐 I’m looking forward to collaborate on Full Stack Web Development. <br>
+ I’m looking forward to 🌐 collaborate on Full Stack Web Development. <br>
  📫 How to reach me nathon.eren@gmail.com
 
 ## GitHub Pages:
