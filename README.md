@@ -11,12 +11,34 @@
  MTA 98-365: Server Admin, MTA 98-366: <br>
  I currently work at an IT Organization...
  
+<!--  •	Networking I
+o	220-1001 CompTIA A+ Core 1
+o	98-367 MTA Security Fundamentals
+
+•	Computer & Security
+o	220-1002 CompTIA A+ Core 2
+
+•	Operating Systems
+o	98-365 MTA Server Administration Fundamentals
+o	010-160 Linux Essentials
+
+•	Server I
+o	SK0-004 CompTIA Server+
+
+•	Security I
+o	SY0-501 CompTIA Security+
+
+•	Net & Security I
+o	98-366 MTA Networking Fundamentals
+o	N10-007 Network+
+ -->
+ 
  ## Social:
- - 🌐 View my GitHub Page here: https://joni3187.github.io/  
- - 🌐 LinkedIn: https://www.linkedin.com/in/johnathon-mendoza/
- - 🌐 Twitter: https://twitter.com/joni_eren
- - 🌐 Code Pen: https://codepen.io/joni_eren
- - 📧 How to reach me: nathon.eren@gmail.com
+ 🌐 View my GitHub Page here: https://joni3187.github.io/ <br>
+ 🌐 LinkedIn: https://www.linkedin.com/in/johnathon-mendoza/ <br>
+ 🌐 Twitter: https://twitter.com/joni_eren <br>
+ 🌐 Code Pen: https://codepen.io/joni_eren <br>
+ 📧 How to reach me: nathon.eren@gmail.com
 
 ## References: 
 - Gists: https://github.com/Joni3187/Gists
