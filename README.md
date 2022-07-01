@@ -4,12 +4,18 @@
  👋 Hello World, I’m @Joni3187 - but you can call me John! I am from Houston 🤠 Texas  <br>
  I’m interested in Web Development 👀 and look forward to collaborate on Full Stack Applications. <br>
  
+ ## Education:
+ - 480+ hours: MERN - Full Stack Development 
+ - 85+ hours:  HTML CSS JS - Web Development Essentials. <br>
+ - 400+ hours: ITSA - Information Technology Security & Administration <br>
+ - MIT xPRO: 
+ - My Computer Career:
+ - Comp TIA <br>
+ - MTA 98-365: Server Admin, MTA 98-366: <br>
+ I currently work as a tier 1 tech support agent at an IT Organization. Responsibilities....
+ 
  ## Experience:
- I have completed over 480+ hours on MERN - Full Stack Development AND over 85+ hours on HTML CSS JS - Development Essentials. <br>
- I have also completed over 400+ Hours in have training in <br>
- Comp TIA <br>
- MTA 98-365: Server Admin, MTA 98-366: <br>
- I currently work at an IT Organization...
+ - 
  
 <!--  •	Networking I
 o	220-1001 CompTIA A+ Core 1
@@ -34,18 +40,18 @@ o	N10-007 Network+
  -->
  
  ## Social:
+ 📧 How to reach me: nathon.eren@gmail.com
  🌐 View my GitHub Page here: https://joni3187.github.io/ <br>
  🌐 LinkedIn: https://www.linkedin.com/in/johnathon-mendoza/ <br>
  🌐 Twitter: https://twitter.com/joni_eren <br>
  🌐 Code Pen: https://codepen.io/joni_eren <br>
- 📧 How to reach me: nathon.eren@gmail.com
 
 ## References: 
-- Gists: https://github.com/Joni3187/Gists
-- MDN: https://developer.mozilla.org/en-US/
-- CDN: https://cdnjs.com/ 
-- Bootstrap: https://getbootstrap.com/ 
-- W3 Schools: https://www.w3schools.com/ 
+ 🌐 Gists: https://github.com/Joni3187/Gists
+ 🌐 MDN: https://developer.mozilla.org/en-US/
+ 🌐 CDN: https://cdnjs.com/ 
+ 🌐 Bootstrap: https://getbootstrap.com/ 
+ 🌐 W3 Schools: https://www.w3schools.com/ 
 
 
 
