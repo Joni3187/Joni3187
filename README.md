@@ -4,7 +4,7 @@
  👋 Hello World, I’m @Joni3187 - but you can call me John! I am from Houston 🤠 Texas  <br>
  I’m interested in Web Development 👀 and look forward to collaborate on Full Stack Applications. <br>
  
- Experience: 
+ ## Experience:
  I have completed over 480+ hours on MERN - Full Stack Development AND over 85+ hours on HTML CSS JS - Development Essentials. <br>
  I have also completed over 400+ Hours in have training in <br>
  Comp TIA <br>
