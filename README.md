@@ -44,14 +44,14 @@ o	N10-007 Network+
  🌐 View my GitHub Page here: https://joni3187.github.io/ <br>
  🌐 LinkedIn: https://www.linkedin.com/in/johnathon-mendoza/ <br>
  🌐 Twitter: https://twitter.com/joni_eren <br>
- 🌐 Code Pen: https://codepen.io/joni_eren <br>
+ 🌐 Code Pen: https://codepen.io/joni_eren
 
 ## References: 
- 🌐 Gists: https://github.com/Joni3187/Gists
- 🌐 MDN: https://developer.mozilla.org/en-US/
- 🌐 CDN: https://cdnjs.com/ 
- 🌐 Bootstrap: https://getbootstrap.com/ 
- 🌐 W3 Schools: https://www.w3schools.com/ 
+ 🌐 Gists: https://github.com/Joni3187/Gists <br>
+ 🌐 MDN: https://developer.mozilla.org/en-US/ <br>
+ 🌐 CDN: https://cdnjs.com/ <br>
+ 🌐 Bootstrap: https://getbootstrap.com/ <br>
+ 🌐 W3 Schools: https://www.w3schools.com/
 
 
 
