@@ -1,7 +1,7 @@
-## Links
-DIP: Document Intents &  Purposes <br>
-References Links Resources
+# Joni Links
 
+## DIP: Document Intents &  Purposes
+References - Links - Resources - Articles - FAQ <br>
 Shout Out to Developers who lifted me on their shoulders: <br>
 Brad Traversy, Angela Yu, Leon Noel, Florin Pop, and Virtual Coffee!!!
 
@@ -22,6 +22,8 @@ Brad Traversy, Angela Yu, Leon Noel, Florin Pop, and Virtual Coffee!!!
 - MDN: https://developer.mozilla.org/en-US/
 
 <!-- Brad Links -->
+
+# Brad Traversy Links
 
 ## CODE OPTIMIZATION:
 * Minify JS & CSS - http://minifier.org
