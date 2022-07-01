@@ -40,7 +40,7 @@ o	N10-007 Network+
  -->
  
  ## Social:
- 📧 How to reach me: nathon.eren@gmail.com
+ 📧 How to reach me: nathon.eren@gmail.com <br>
  🌐 View my GitHub Page here: https://joni3187.github.io/ <br>
  🌐 LinkedIn: https://www.linkedin.com/in/johnathon-mendoza/ <br>
  🌐 Twitter: https://twitter.com/joni_eren <br>
