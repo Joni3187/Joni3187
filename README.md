@@ -14,6 +14,12 @@
 - Landing Page: https://joni3187.github.io/
 - Joni CV: https://joni3187.github.io/Joni-CV/
 
+## References: 
+- CDN: https://cdnjs.com/ 
+- Bootstrap: https://getbootstrap.com/ 
+- W3 Schools: https://www.w3schools.com/ 
+- MDN: https://developer.mozilla.org/en-US/
+
 ## Social Media:
 - LinkedIn: https://www.linkedin.com/in/johnathon-mendoza/
 - Twitter: https://twitter.com/joni_eren
