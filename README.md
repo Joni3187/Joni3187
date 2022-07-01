@@ -7,11 +7,9 @@
  <br>
  I completed a Full Stack - MERN - Web Development bootcamp 💻 through MIT xPRO in November 2021.
  <br>
+ 💻 View my GitHub Page here: Landing Page: https://joni3187.github.io/  
+ <br>
  📫 How to reach me nathon.eren@gmail.com
-
-## GitHub Pages:
-- Landing Page: https://joni3187.github.io/
-- Joni CV: https://joni3187.github.io/Joni-CV/
 
 ## References: 
 - Gists: https://github.com/Joni3187/Gists
