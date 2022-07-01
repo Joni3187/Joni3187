@@ -3,13 +3,14 @@
 ## About Me:
  👋 Hello World, I’m @Joni3187 - but you can call me John! 😎 I am from Houston Texas 🤠 
  <br>
- I’m interested in Web Development 👀 and look forward to collaborate on Full Stack 🌐 Applications.
+ I’m interested in Web Development 👀 and look forward to collaborate on Full Stack  Applications.
  <br>
  I completed a Full Stack - MERN - Web Development bootcamp 💻 through MIT xPRO in November 2021.
  <br>
- 💻 View my GitHub Page here: https://joni3187.github.io/  
- 📫 How to reach me nathon.eren@gmail.com
-
+ 🌐 View my GitHub Page here: https://joni3187.github.io/  
+ 📧 How to reach me: nathon.eren@gmail.com
+ 
+ 
 ## References: 
 - Gists: https://github.com/Joni3187/Gists
 - MDN: https://developer.mozilla.org/en-US/
