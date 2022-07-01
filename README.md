@@ -10,7 +10,7 @@
  📫 How to reach me nathon.eren@gmail.com
 
 ## GitHub Pages:
-- Gists: https://gist.github.com/Joni3187
+- Gists: https://github.com/Joni3187/Gists
 - Landing Page: https://joni3187.github.io/
 - Joni CV: https://joni3187.github.io/Joni-CV/
 
