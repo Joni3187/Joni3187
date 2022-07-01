@@ -1,3 +1,16 @@
+## Links
+DIP: Document Intents &  Purposes <br>
+References Links Resources
+
+Shout Out to Developers: <br>
+Brad Traversy
+Angela Yu
+Leon Noel
+Florin Pop
+
+
+
+
 ## Resources:
 - RainDrop: https://app.raindrop.io/
 - Codepen: https://codepen.io/
