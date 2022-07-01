@@ -14,21 +14,6 @@
 - Landing Page: https://joni3187.github.io/
 - Joni CV: https://joni3187.github.io/Joni-CV/
 
-## References:
-- CDN: https://cdnjs.com/
-- MDN: https://developer.mozilla.org/
-- Stack Overflow: https://stackoverflow.com/
-
-## Dev Tools: 
-- Bootstrap: https://getbootstrap.com/
-- Canva: https://www.canva.com/
-- W3 Schools: https://www.w3schools.com/
-
-## Code Bootcamps:
-- Free Code Camp: https://www.freecodecamp.org/
-- 100 Devs: https://leonnoel.com/100devs/
-- Udemy: https://www.udemy.com/
-
 ## Social Media:
 - LinkedIn: https://www.linkedin.com/in/johnathon-mendoza/
 - Twitter: https://twitter.com/joni_eren
