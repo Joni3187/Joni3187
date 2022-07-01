@@ -8,7 +8,6 @@
  I completed a Full Stack - MERN - Web Development bootcamp 💻 through MIT xPRO in November 2021.
  <br>
  💻 View my GitHub Page here: https://joni3187.github.io/  
- <br>
  📫 How to reach me nathon.eren@gmail.com
 
 ## References: 
