@@ -6,15 +6,17 @@
  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas doloremque minima voluptates ut <br>
  distinctio possimus expedita. Dolor totam molestiae corrupti accusamus? Nobis explicabo eaque quod tenetur <br> 
  <br>
+<!--  WEB DEV STUFF +/- Vet Tech -->
  Sapiente impedit sunt molestias nemo nesciunt soluta excepturi, a fuga commodi consectetur ab, quia nisi explicabo <br> 
  eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi. <br>
  natus nesciunt. Ullam delectus iusto, ut enim molestias  voluptates, possimus facilis, atque dignissimos ipsa ipsum? <br>
  eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi. <br>
+ natus nesciunt. Ullam delectus iusto, ut enim molestias  voluptates, possimus facilis, atque dignissimos ipsa ipsum? <br>
  <br>
+ <!--  VET TECH STUFF  -->
  Sapiente impedit sunt molestias nemo nesciunt soluta excepturi, a fuga commodi consectetur ab, quia nisi explicabo <br> 
  eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi. <br>
  natus nesciunt. Ullam delectus iusto, ut enim molestias  voluptates, possimus facilis, atque dignissimos ipsa ipsum? <br>
- eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi. <br>
  
  
 ## Experience
