@@ -1,6 +1,6 @@
 # Joni3187 - GitHub - README!
 
-## About Me:
+## About Me
  👋 Hello World, I’m @Joni3187 - but you can call me John! I am from Houston 🤠 Texas  <br>
  I’m interested in Web Development 👀 and look forward to collaborate on Full Stack Applications. <br>
  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas doloremque minima voluptates ut <br>
@@ -10,9 +10,14 @@
  eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi. <br>
  natus nesciunt. Ullam delectus iusto, ut enim molestias  voluptates, possimus facilis, atque dignissimos ipsa ipsum? <br>
  eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi. <br>
+ <br>
+ Sapiente impedit sunt molestias nemo nesciunt soluta excepturi, a fuga commodi consectetur ab, quia nisi explicabo <br> 
+ eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi. <br>
+ natus nesciunt. Ullam delectus iusto, ut enim molestias  voluptates, possimus facilis, atque dignissimos ipsa ipsum? <br>
+ eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi. <br>
  
  
-## Exp:
+## Experience
 MIT xPRO: <br>
 Full Stack Development - MERN Stack <br>
 550+ hours: MERN - Full Stack Web Development <br>
@@ -22,14 +27,14 @@ Comp TIA: Server Network Security <br>
 MTA: Server Network Security <br>
 400+ hours: ITSA - Information Technology Security & Administration <br>
 
-## Social:
+## Social
  📧 How to reach me: nathon.eren@gmail.com <br>
  🌐 View my GitHub Page here: https://joni3187.github.io/ <br>
  🌐 LinkedIn: https://www.linkedin.com/in/johnathon-mendoza/ <br>
  🌐 Twitter: https://twitter.com/joni_eren <br>
  🌐 Code Pen: https://codepen.io/joni_eren
 
-## References: 
+## References
  🌐 Gists: https://github.com/Joni3187/Gists <br>
  🌐 MDN: https://developer.mozilla.org/en-US/ <br>
  🌐 CDN: https://cdnjs.com/ <br>
