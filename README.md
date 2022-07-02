@@ -6,29 +6,29 @@
  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas doloremque minima voluptates ut <br>
  distinctio possimus expedita. Dolor totam molestiae corrupti accusamus? Nobis explicabo eaque quod tenetur <br> 
  <br>
- Sapiente impedit sunt molestias nemo nesciunt soluta excepturi, a fuga commodi consectetur ab, quia nisi explicabo perspiciatis <br> 
- eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi asperiores. <br>
- natus nesciunt. Ullam delectus iusto, ut enim molestias  voluptates, possimus facilis, atque dignissimos ipsa ipsum pariatur? <br>
- eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi asperiores. <br>
+ Sapiente impedit sunt molestias nemo nesciunt soluta excepturi, a fuga commodi consectetur ab, quia nisi explicabo <br> 
+ eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi. <br>
+ natus nesciunt. Ullam delectus iusto, ut enim molestias  voluptates, possimus facilis, atque dignissimos ipsa ipsum? <br>
+ eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi. <br>
  
  
 ## Education:
-- 550+ hours: MERN - Full Stack Web Development 
-- 400+ hours: ITSA - Information Technology Security & Administration <br>
 - MIT xPRO: 
 - My Computer Career:
 - Comp TIA <br>
 - MTA 98-365: Server Admin, MTA 98-366: <br>
-I currently work as a tier 1 tech support agent at an IT Organization. Responsibilities....
  
 ## Experience:
- - 
- 
-<!--  •	Networking I
+
+- 550+ hours: MERN - Full Stack Web Development 
+- 400+ hours: ITSA - Information Technology Security & Administration <br>
+  
+<!--  
+•	Networking I
 o	220-1001 CompTIA A+ Core 1
 o	98-367 MTA Security Fundamentals
 
-•	Computer & Security
+•	Computer & Security: 
 o	220-1002 CompTIA A+ Core 2
 
 •	Operating Systems
