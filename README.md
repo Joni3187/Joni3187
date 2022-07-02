@@ -12,16 +12,30 @@
  eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi. <br>
  
  
-## Education:
+## Exp:
 - MIT xPRO: 
-- My Computer Career:
-- Comp TIA <br>
-- MTA 98-365: Server Admin, MTA 98-366: <br>
- 
-## Experience:
-
+- Full Stack Development - MERN Stack
 - 550+ hours: MERN - Full Stack Web Development 
+
+- My Computer Career:
+- Comp TIA: Server Network Security <br>
+- MTA: Server Network Security <br>
 - 400+ hours: ITSA - Information Technology Security & Administration <br>
+
+## Social:
+ 📧 How to reach me: nathon.eren@gmail.com <br>
+ 🌐 View my GitHub Page here: https://joni3187.github.io/ <br>
+ 🌐 LinkedIn: https://www.linkedin.com/in/johnathon-mendoza/ <br>
+ 🌐 Twitter: https://twitter.com/joni_eren <br>
+ 🌐 Code Pen: https://codepen.io/joni_eren
+
+## References: 
+ 🌐 Gists: https://github.com/Joni3187/Gists <br>
+ 🌐 MDN: https://developer.mozilla.org/en-US/ <br>
+ 🌐 CDN: https://cdnjs.com/ <br>
+ 🌐 Bootstrap: https://getbootstrap.com/ <br>
+ 🌐 W3 Schools: https://www.w3schools.com/
+
   
 <!--  
 •	Networking I
@@ -45,20 +59,6 @@ o	SY0-501 CompTIA Security+
 o	98-366 MTA Networking Fundamentals
 o	N10-007 Network+
  -->
- 
-## Social:
- 📧 How to reach me: nathon.eren@gmail.com <br>
- 🌐 View my GitHub Page here: https://joni3187.github.io/ <br>
- 🌐 LinkedIn: https://www.linkedin.com/in/johnathon-mendoza/ <br>
- 🌐 Twitter: https://twitter.com/joni_eren <br>
- 🌐 Code Pen: https://codepen.io/joni_eren
-
-## References: 
- 🌐 Gists: https://github.com/Joni3187/Gists <br>
- 🌐 MDN: https://developer.mozilla.org/en-US/ <br>
- 🌐 CDN: https://cdnjs.com/ <br>
- 🌐 Bootstrap: https://getbootstrap.com/ <br>
- 🌐 W3 Schools: https://www.w3schools.com/
 
 
 
