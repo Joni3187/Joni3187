@@ -4,16 +4,16 @@
  👋 Hello World, I’m @Joni3187 - but you can call me John! I am from Houston 🤠 Texas  <br>
  I’m interested in Web Development 👀 and look forward to collaborate on Full Stack Applications. <br>
  
- ## Education:
- - 550+ hours: MERN - Full Stack Web Development 
- - 400+ hours: ITSA - Information Technology Security & Administration <br>
- - MIT xPRO: 
- - My Computer Career:
- - Comp TIA <br>
- - MTA 98-365: Server Admin, MTA 98-366: <br>
- I currently work as a tier 1 tech support agent at an IT Organization. Responsibilities....
+## Education:
+- 550+ hours: MERN - Full Stack Web Development 
+- 400+ hours: ITSA - Information Technology Security & Administration <br>
+- MIT xPRO: 
+- My Computer Career:
+- Comp TIA <br>
+- MTA 98-365: Server Admin, MTA 98-366: <br>
+I currently work as a tier 1 tech support agent at an IT Organization. Responsibilities....
  
- ## Experience:
+## Experience:
  - 
  
 <!--  •	Networking I
@@ -38,7 +38,7 @@ o	98-366 MTA Networking Fundamentals
 o	N10-007 Network+
  -->
  
- ## Social:
+## Social:
  📧 How to reach me: nathon.eren@gmail.com <br>
  🌐 View my GitHub Page here: https://joni3187.github.io/ <br>
  🌐 LinkedIn: https://www.linkedin.com/in/johnathon-mendoza/ <br>
