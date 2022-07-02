@@ -13,18 +13,18 @@
  eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi. <br>
  natus nesciunt. Ullam delectus iusto, ut enim molestias  voluptates, possimus facilis, atque dignissimos ipsa ipsum? <br>
  <br>
- <!--  VET TECH STUFF  -->
+ <!--  DIP Data  -->
  Sapiente impedit sunt molestias nemo nesciunt soluta excepturi, a fuga commodi consectetur ab, quia nisi explicabo <br> 
  eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi. <br>
  natus nesciunt. Ullam delectus iusto, ut enim molestias  voluptates, possimus facilis, atque dignissimos ipsa ipsum? <br>
  
  
 ## Experience
-MIT xPRO: <br>
+👨‍🎓 MIT xPRO: <br>
 Full Stack Development - MERN Stack <br>
 550+ hours: MERN - Full Stack Web Development <br>
 <br>
-My Computer Career: <br>
+👨‍🎓 My Computer Career: <br>
 Comp TIA: Server Network Security <br>
 MTA: Server Network Security <br>
 400+ hours: ITSA - Information Technology Security & Administration <br>
