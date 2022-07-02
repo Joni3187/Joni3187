@@ -3,11 +3,13 @@
 ## About Me:
  👋 Hello World, I’m @Joni3187 - but you can call me John! I am from Houston 🤠 Texas  <br>
  I’m interested in Web Development 👀 and look forward to collaborate on Full Stack Applications. <br>
- Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas doloremque minima voluptates temporibus cumque ipsum ut 
- distinctio possimus expedita. Dolor totam molestiae corrupti accusamus? Nobis explicabo eaque quod tenetur ab consequatur, 
- natus nesciunt. Ullam delectus iusto, ut enim molestias  voluptates, possimus facilis, atque dignissimos ipsa ipsum pariatur? 
- Sapiente impedit sunt molestias nemo nesciunt soluta excepturi, a fuga commodi consectetur ab, quia nisi explicabo perspiciatis 
- eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi asperiores.
+ Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas doloremque minima voluptates ut <br>
+ distinctio possimus expedita. Dolor totam molestiae corrupti accusamus? Nobis explicabo eaque quod tenetur <br> 
+ <br>
+ Sapiente impedit sunt molestias nemo nesciunt soluta excepturi, a fuga commodi consectetur ab, quia nisi explicabo perspiciatis <br> 
+ eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi asperiores. <br>
+ natus nesciunt. Ullam delectus iusto, ut enim molestias  voluptates, possimus facilis, atque dignissimos ipsa ipsum pariatur? <br>
+ eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi asperiores. <br>
  
  
 ## Education:
