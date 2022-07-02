@@ -5,8 +5,7 @@
  I’m interested in Web Development 👀 and look forward to collaborate on Full Stack Applications. <br>
  
  ## Education:
- - 480+ hours: MERN - Full Stack Development 
- - 85+ hours:  HTML CSS JS - Web Development Essentials. <br>
+ - 550+ hours: MERN - Full Stack Web Development 
  - 400+ hours: ITSA - Information Technology Security & Administration <br>
  - MIT xPRO: 
  - My Computer Career:
