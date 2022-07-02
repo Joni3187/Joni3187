@@ -13,14 +13,14 @@
  
  
 ## Exp:
-- MIT xPRO: 
-- Full Stack Development - MERN Stack
-- 550+ hours: MERN - Full Stack Web Development 
-
-- My Computer Career:
-- Comp TIA: Server Network Security <br>
-- MTA: Server Network Security <br>
-- 400+ hours: ITSA - Information Technology Security & Administration <br>
+MIT xPRO: <br>
+Full Stack Development - MERN Stack <br>
+550+ hours: MERN - Full Stack Web Development <br>
+<br>
+My Computer Career: <br>
+Comp TIA: Server Network Security <br>
+MTA: Server Network Security <br>
+400+ hours: ITSA - Information Technology Security & Administration <br>
 
 ## Social:
  📧 How to reach me: nathon.eren@gmail.com <br>
