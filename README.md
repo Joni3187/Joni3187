@@ -34,14 +34,10 @@ MTA: Server Network Security <br>
  🌐 View my GitHub Page here: https://joni3187.github.io/ <br>
  🌐 LinkedIn: https://www.linkedin.com/in/johnathon-mendoza/ <br>
  🌐 Twitter: https://twitter.com/joni_eren <br>
- 🌐 Code Pen: https://codepen.io/joni_eren
+ 🌐 Code Pen: https://codepen.io/joni_eren <br>
+ 🌐 Gists: https://github.com/Joni3187/Gists
 
-## References
- 🌐 Gists: https://github.com/Joni3187/Gists <br>
- 🌐 MDN: https://developer.mozilla.org/en-US/ <br>
- 🌐 CDN: https://cdnjs.com/ <br>
- 🌐 Bootstrap: https://getbootstrap.com/ <br>
- 🌐 W3 Schools: https://www.w3schools.com/
+
 
   
 <!--  
