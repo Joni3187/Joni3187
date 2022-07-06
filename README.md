@@ -11,13 +11,7 @@
  eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi. <br>
  natus nesciunt. Ullam delectus iusto, ut enim molestias  voluptates, possimus facilis, atque dignissimos ipsa ipsum? <br>
  eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi. <br>
- natus nesciunt. Ullam delectus iusto, ut enim molestias  voluptates, possimus facilis, atque dignissimos ipsa ipsum? <br>
- <br>
- <!--  DIP Data  -->
- Sapiente impedit sunt molestias nemo nesciunt soluta excepturi, a fuga commodi consectetur ab, quia nisi explicabo <br> 
- eligendi! Repellat labore cumque quasi odio ratione, nostrum eos! Delectus minus, quaerat necessitatibus numquam nisi. <br>
- natus nesciunt. Ullam delectus iusto, ut enim molestias  voluptates, possimus facilis, atque dignissimos ipsa ipsum? <br>
- 
+ natus nesciunt. Ullam delectus iusto, ut enim molestias  voluptates, possimus facilis, atque dignissimos ipsa ipsum? <br> 
  
 ## Experience
 👨‍🎓 MIT xPRO: <br>
