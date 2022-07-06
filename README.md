@@ -32,7 +32,7 @@ MTA: Server Network Security <br>
 ## Social
  📧 How to reach me: nathon.eren@gmail.com <br>
  🌐 Joni3187 GitHub Page: https://joni3187.github.io/ <br>
- 🌐 Gists: https://github.com/Joni3187/Gists
+ 🌐 Gists: https://github.com/Joni3187/Gists <br>
  🌐 LinkedIn: https://www.linkedin.com/in/johnathon-mendoza/ <br>
  🌐 Twitter: https://twitter.com/joni_eren <br>
  🌐 Code Pen: https://codepen.io/joni_eren <br>
