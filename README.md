@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://joni3187.github.io/" target="_blank">
+  <a href="https://nocturnaltek.com/">
     <img src="https://res.cloudinary.com/eren-joni/image/upload/v1690748087/Nocturnal%20Tek/NT_Icon_AC_kbjzf9.png" alt="Nocturnal Tek Logo" width="450" height="250">
   </a>
 </p>
@@ -11,6 +11,13 @@
   <br>
   <a href="https://nocturnaltek.com/"><strong>Explore Nocturnal Tek »</strong></a>
   <br>
+  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml">Gists</a>
+  ·
+  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=&labels=feature&template=feature_request.yml">@Joni3187 GitHub</a>
+  ·
+  <a href="https://themes.getbootstrap.com/">Themes</a>
+  ·
+  <a href="https://blog.getbootstrap.com/">Blog</a>
 </p>
 
 
@@ -69,19 +76,6 @@ MTA: Server Network Security <br>
 🌐 Canva: https://joni3187.github.io/ <br>
 🌐 Go Daddy: https://joni3187.github.io/ <br>
 
-
-<div class="">
-
-</div>
-
-
-<style>
-
-body {
-    font-size: 18px;
-}
-
-</style>
 
 
 <!-- Joni3187/Joni3187 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. -->
