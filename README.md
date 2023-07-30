@@ -14,11 +14,11 @@
   <a href="https://nocturnaltek.com/"><strong>Explore Nocturnal Tek »</strong></a>
   <br>
   <br>
-  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=&labels=feature&template=feature_request.yml">@Joni3187</a>
+  <a href="https://joni3187.github.io/">@Joni3187</a>
   ·
-  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml">Gists</a>
+  <a href="https://gist.github.com/Joni3187">Gists</a>
   ·
-  <a href="https://themes.getbootstrap.com/">Codepen</a>
+  <a href="https://codepen.io/joni_eren">Codepen</a>
 </p>
 
 <!-- = = = = = = = [ ABOUT ME ] = = = = = = = -->
@@ -54,24 +54,31 @@ Full Stack Development - MERN Stack <br>
 550+ hours: MERN - Full Stack Web Development <br>
 <br>
 
-👨‍🎓 Coursera Front End Development: <br>
-Full Stack Development - MERN Stack <br>
-50+ hours: MERN - Full Stack Web Development <br>
-<br>
-
-👨‍🎓 Coursera Meta Back End Development: <br>
-Full Stack Development - MERN Stack <br>
-50+ hours: MERN - Full Stack Web Development <br>
-<br>
-
 👨‍🎓 My Computer Career: <br>
 Comp TIA: Server Network Security <br>
 MTA: Server Network Security <br>
 400+ hours: ITSA - Information Technology Security & Administration <br>
+<br>
+
+👨‍🎓 Coursera META Front End Development: <br>
+Full Stack Development - MERN Stack <br>
+50+ hours: MERN - Full Stack Web Development <br>
+<br>
+
+👨‍🎓 Coursera META Back End Development: <br>
+Full Stack Development - MERN Stack <br>
+50+ hours: MERN - Full Stack Web Development <br>
 
 <!-- = = = = = = = [ SNEAKY LINKS ] = = = = = = = -->
 
 ## Sneaky Links
+
+| About Me | Blogs | Contact |
+| --- | ----------- | --- |
+| <a href="https://www.geeksforgeeks.org/">🌐</a> Geeks 4 Geeks | <a href="https://joni3187.github.io/">🌐</a> @Joni3187 GitHub<br> | <a href="https://www.geeksforgeeks.org/">🌐</a> Geeks 4 Geeks |
+| <a href="https://www.geeksforgeeks.org/">🌐</a> Geeks 4 Geeks | <a href="https://joni3187.github.io/">🌐</a> @Joni3187 GitHub<br> | <a href="https://www.geeksforgeeks.org/">🌐</a> Geeks 4 Geeks |
+| <a href="https://www.geeksforgeeks.org/">🌐</a> Geeks 4 Geeks | <a href="https://joni3187.github.io/">🌐</a> @Joni3187 GitHub<br> | <a href="https://www.geeksforgeeks.org/">🌐</a> Geeks 4 Geeks |
+
 
 [ About Me ]
 
@@ -79,6 +86,15 @@ MTA: Server Network Security <br>
 <a href="https://github.com/Joni3187/Gists">🌐</a> @Joni3187 Gists<br>
 <a href="https://codepen.io/joni_eren">🌐</a> CodePen<br>
 
+[ Blogs ]
+
+<a href="https://www.geeksforgeeks.org/">🌐</a> Geeks 4 Geeks<br>
+<a href="https://www.freecodecamp.org/learn">🌐</a> Free Code Camp<br>
+<a href="https://dev.to/">🌐</a> Dev.to<br>
+
+<a href="https://www.pcmag.com/">🌐</a> PC Mag<br>
+<a href="https://www.dell.com/">🌐</a> Dell<br>
+<a href="https://www.bestbuy.com/">🌐</a> Best Buy<br>
 
 [ Platforms]
 
@@ -91,6 +107,8 @@ MTA: Server Network Security <br>
 <a href="https://fonts.google.com/">🌐</a> Google Fonts<br>
 <a href="https://heropatterns.com/">🌐</a> Hero Patterns<br>
 
+<a href="https://www.codementor.io/">🌐</a> Code Mentor<br>
+<a href="https://virtualcoffee.io/">🌐</a> Virtual Coffee<br>
 
 [ Resources ]
 
