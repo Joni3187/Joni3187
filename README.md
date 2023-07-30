@@ -1,3 +1,5 @@
+<!-- = = = = = = = [ BANNER ] = = = = = = = -->
+
 <p align="center">
   <a href="https://nocturnaltek.com/">
     <img src="https://res.cloudinary.com/eren-joni/image/upload/v1690748087/Nocturnal%20Tek/NT_Icon_AC_kbjzf9.png" alt="Nocturnal Tek Logo" width="450" height="250">
@@ -19,30 +21,31 @@
   <a href="https://themes.getbootstrap.com/">Codepen</a>
 </p>
 
+<!-- = = = = = = = [ ABOUT ME ] = = = = = = = -->
 
 ## About Me
 
-👋 Hello World, I’m @Joni3187 - but you can call me John! I was born and raised in the great state of Texas 🤠 <br>
-I have worked in Emergency Veterinary Medicine for the last 15 years - mostly nights! <br>
-I started my professional IT career in 2020 (shortly after COVID started) as a WAH Tier 1 Technical Support Agent. <br>
-Shortly after starting my professional IT career I began a 10-month bootcamp through MIT xPRO: Full Stack MERN Development<br>
+<p align="center">
+    👋 Hello World, I’m @Joni3187 - but you can call me John! I was born and raised in the great state of Texas 🤠 <br>
+    I have worked in Emergency Veterinary Medicine for the last 15 years - Night Shifts!! <br>
+    I started my professional IT career in 2020 (shortly after COVID started) as a WAH Tier 1 Technical Support Agent. <br>
+    In early 2021 I began a 10-month bootcamp through MIT xPRO: Full Stack MERN Development.<br>
+    I’m interested 👀 in Web Development and look forward to collaborate on Full Stack Applications. <br>
+</p>
 
-Interests: 
-I’m interested 👀 in Web Development and look forward to collaborate on Full Stack Applications. <br>
-👾 front end
-👾 back end
-👾 Graphical Engineering
-👾 front end
+Interests: <br>
+👾 front end <br>
+👾 back end <br>
+👾 Graphical Engineering <br>
+👾 front end <br>
 
-Hobbies:
+Hobbies: <br>
+🎮 Gaming <br>
+👨‍💻 Coding <br>
+🏈 Sports & Outdoors <br>
+👨‍🍳 Cooking & Cleaning (It's my therapy!) <br>
 
-🎮 Gaming
-👨‍💻 Coding
-🏈 Sports & Outdoors
-👨‍🍳 Cooking & Cleaning (It's my therapy!)
-
-<br>
-
+<!-- = = = = = = = [ EXPERIENCE ] = = = = = = = -->
 
 ## Experience
 
@@ -66,6 +69,7 @@ Comp TIA: Server Network Security <br>
 MTA: Server Network Security <br>
 400+ hours: ITSA - Information Technology Security & Administration <br>
 
+<!-- = = = = = = = [ SNEAKY LINKS ] = = = = = = = -->
 
 ## Sneaky Links
 
