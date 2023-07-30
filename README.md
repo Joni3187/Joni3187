@@ -33,6 +33,18 @@
     I’m interested 👀 in Web Development and look forward to collaborate on Full Stack Applications. <br>
 </p>
 
+<center>
+
+| Interests | Hobbies | 
+| ------ | ------ | 
+| 👾 Front End Developement | 🎮 Gaming |
+| 👾 Front End Developement | 🎮 Gaming |
+| 👾 Front End Developement | 🎮 Gaming |
+
+</center>
+
+
+<!-- 
 Interests: <br>
 👾 front end <br>
 👾 back end <br>
@@ -44,6 +56,9 @@ Hobbies: <br>
 👨‍💻 Coding <br>
 🏈 Sports & Outdoors <br>
 👨‍🍳 Cooking & Cleaning (It's my therapy!) <br>
+-->
+
+
 
 <!-- = = = = = = = [ EXPERIENCE ] = = = = = = = -->
 
@@ -73,28 +88,30 @@ Full Stack Development - MERN Stack <br>
 
 ## Sneaky Links
 
-| About Me | Blogs | Contact |
-| --- | ----------- | --- |
-| <a href="https://www.geeksforgeeks.org/">🌐</a> Geeks 4 Geeks | <a href="https://joni3187.github.io/">🌐</a> @Joni3187 GitHub<br> | <a href="https://www.geeksforgeeks.org/">🌐</a> Geeks 4 Geeks |
-| <a href="https://www.geeksforgeeks.org/">🌐</a> Geeks 4 Geeks | <a href="https://joni3187.github.io/">🌐</a> @Joni3187 GitHub<br> | <a href="https://www.geeksforgeeks.org/">🌐</a> Geeks 4 Geeks |
-| <a href="https://www.geeksforgeeks.org/">🌐</a> Geeks 4 Geeks | <a href="https://joni3187.github.io/">🌐</a> @Joni3187 GitHub<br> | <a href="https://www.geeksforgeeks.org/">🌐</a> Geeks 4 Geeks |
+<center>
 
+| About Me | Blogs | Platforms | Resources | Styles |
+| ------ | ------ | ------ | ------ | ------ |
+| <a href="https://joni3187.github.io/">🌐</a> @Joni3187 GitHub | <a href="https://dev.to/">🌐</a> Dev.to | <a href="https://cdnjs.com/">🌐</a> CDN | <a href="https://www.canva.com/">🌐</a> Canva | <a href="https://fontawesome.com/">🌐</a> Font Awesome |
+| <a href="https://github.com/Joni3187/Gists">🌐</a> @Joni3187 Gists | <a href="https://www.freecodecamp.org/learn">🌐</a> Free Code Camp | <a href="https://developer.mozilla.org/en-US/">🌐</a> MDN | <a href="https://www.godaddy.com/">🌐</a> Go Daddy | <a href="https://fonts.google.com/">🌐</a> Google Fonts |
+
+</center>
+
+
+<!-- 
 
 [ About Me ]
 
 <a href="https://joni3187.github.io/">🌐</a> @Joni3187 GitHub<br>
 <a href="https://github.com/Joni3187/Gists">🌐</a> @Joni3187 Gists<br>
-<a href="https://codepen.io/joni_eren">🌐</a> CodePen<br>
+<a href="https://codepen.io/joni_eren">🌐</a> CodePen.io<br>
 
 [ Blogs ]
 
-<a href="https://www.geeksforgeeks.org/">🌐</a> Geeks 4 Geeks<br>
-<a href="https://www.freecodecamp.org/learn">🌐</a> Free Code Camp<br>
 <a href="https://dev.to/">🌐</a> Dev.to<br>
-
+<a href="https://www.freecodecamp.org/learn">🌐</a> Free Code Camp<br>
+<a href="https://www.geeksforgeeks.org/">🌐</a> Geeks 4 Geeks<br>
 <a href="https://www.pcmag.com/">🌐</a> PC Mag<br>
-<a href="https://www.dell.com/">🌐</a> Dell<br>
-<a href="https://www.bestbuy.com/">🌐</a> Best Buy<br>
 
 [ Platforms]
 
@@ -103,20 +120,24 @@ Full Stack Development - MERN Stack <br>
 <a href="https://getbootstrap.com/">🌐</a> Bootstrap<br>
 <a href="https://www.w3schools.com/">🌐</a> W3 Schools<br>
 
-<a href="https://fontawesome.com/">🌐</a> Font Awesome<br>
-<a href="https://fonts.google.com/">🌐</a> Google Fonts<br>
-<a href="https://heropatterns.com/">🌐</a> Hero Patterns<br>
-
 <a href="https://www.codementor.io/">🌐</a> Code Mentor<br>
 <a href="https://virtualcoffee.io/">🌐</a> Virtual Coffee<br>
 
 [ Resources ]
 
+<a href="https://www.canva.com/">🌐</a> Canva<br>
+<a href="https://www.godaddy.com/">🌐</a> Go Daddy<br>
+
 <a href="https://cloudinary.com/">🌐</a> Cloudinary<br>
 <a href="https://unsplash.com/">🌐</a> Unsplash<br>
 
-<a href="https://www.canva.com/">🌐</a> Canva<br>
-<a href="https://www.godaddy.com/">🌐</a> Go Daddy<br>
+[ Styles ]
+
+<a href="https://fontawesome.com/">🌐</a> Font Awesome<br>
+<a href="https://fonts.google.com/">🌐</a> Google Fonts<br>
+<a href="https://heropatterns.com/">🌐</a> Hero Patterns<br> 
+
+-->
 
 
 
