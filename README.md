@@ -18,33 +18,54 @@
 ## About Me
 
 <p>
+
   [ Background ] <br>
-  👋 Hello World, I’m @Joni3187 - but you can call me John! I was born and raised in the great state of Texas 🤠 <br>
-  I have worked in Emergency Veterinary Medicine for the last 15 years - Night Shifts!! <br>
+  Hello World, I’m @Joni3187 - but you can call me John! I was born and raised in the great state of Texas.<br>
+  I have worked in Emergency Veterinary Medicine for 15+ years - Night Shifts!! <br>
   I am a night-owl, I do some of my best work at night!
+  
   <br>
+
   [ Hobbies ] <br>
-  I am a huge techie!! I remember my first computer, Gateway desktop with Windows 98! <br>
+  I am a huge techie!! My first computer was a Gateway desktop with Windows 98! <br>
   I have two Alienware computers, one desktop and one laptop. <br>
-  I am a big gamer, xbox - playstation - nintendo - pc <br>
-  Some of my favorite games are Elden Ring, Resident Evil and No Man's Sky.
+  I am a big gamer: xbox - playstation - nintendo - pc <br>
+  Some of my favorite games are Zelda, Elden Ring, Halo, Resident Evil and No Man's Sky.
+
 </p>
 
 <!-- = = = = = = = [ EXPERIENCE ] = = = = = = = -->
 
 ## IT Experience
 
+[ About ] <br>
+
 I started my professional IT career in 2020 (shortly after COVID started) as a WAH Tier 1 Technical Support Agent. <br>
 In early 2021 I began a 10-month bootcamp through MIT xPRO: Full Stack MERN Development.<br>
-I’m interested 👀 in Web Development and look forward to collaborate on Full Stack Applications. <br>
+I’m interested in Web Development and look forward to collaborate on Full Stack Applications. <br>
+
+[ Education ] <br>
 
 MIT xPRO Full Stack Developer: <br>
 Full Stack Development - MERN Stack <br>
+HTML + CSS + JAVASCRIPT + REACT <br>
 550+ hours: MERN - Full Stack Web Development <br>
 
 My Computer Career: <br>
-Comp TIA: Server Network Security <br>
-MTA: Server Network Security <br>
+CompTIA: <br>
+<ul>
+  <li>CompTIA A+</li>
+  <li>CompTIA Security+</li>
+  <li>CompTIA Network+</li>
+  <li>CompTIA Server+</li>
+</ul>
+Microsoft Technology Associate: <br>
+<ul>
+  <li>MTA Security</li>
+  <li>MTA Network</li>
+  <li>MTA Server</li>
+</ul>
+Linux Essentials <br>
 400+ hours: ITSA - Information Technology Security & Administration <br>
 
 <!-- = = = = = = = [ TECH STACK ] = = = = = = = -->
@@ -84,13 +105,22 @@ MTA: Server Network Security <br>
 
 <!-- = = = = = = = [ SOCIAL HUB ] = = = = = = = -->
 
-<!-- ## Connect with me
+## Connect with me
 
 <p align="left">
-<a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a> -->
+<!-- STACK OVERFLOW -->
+<a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack overflow" height="30" width="40" /></a>
+<!-- INSTAGRAM -->
+<a href="https://www.instagram.com/joni.eren/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<!-- TWITTER / X -->
+<a href="https://twitter.com/joni_eren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter/x" height="30" width="40" /></a>
+<!-- LINKEDIN -->
+<a href="https://www.linkedin.com/in/johnathon-mendoza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<!-- DEV.TO -->
+<a href="https://dev.to/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to" height="30" width="40" /></a>
+</p>
+
+
+## End of README
 
 <!-- Joni3187/Joni3187 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. -->
