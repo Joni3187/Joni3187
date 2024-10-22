@@ -38,49 +38,22 @@ I’m interested in Web Development and look forward to collaborate on Web Devel
 
 ## Education
 
-[ MIT xPRO ] <br>
+| **MIT xPRO**                          | **My Computer Career** |
+|---------------------------------------|------------------------|
+| **Full Stack Developer - MERN Stack** | **ITSA: Information Technology Security Administrator** |
+| 💻 **Front End Dev**                  | 💾 **CompTIA Training** |
+| - HTML                                | - A+                   |
+| - CSS                                 | - Security+            |
+| - JavaScript                          | - Network+             |
+| - React                               | - Server+              |
+| - Frameworks                          | 💾 **Microsoft Technology Associate** |
+| 💻 **Back End Dev**                   | - MTA Security         |
+| - Express JS                          | - MTA Network          |
+| - NPM                                 | - MTA Server           |
+| - GraphQL                             | 💾 **Linux Essentials** |
+| - Postman                             | - Linux |
+| - Strapi                              | 📎 400+ hours: ITSA Training |
 
-Full Stack Developer - MERN Stack
-
-💻 Front End Dev <br>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>React</li>
-  <li>Frameworks</li>
-</ul>
-
-💻 Back End Dev <br>
-<ul>
-  <li>Express JS</li>
-  <li>NPM</li>
-  <li>GraphQL</li>
-  <li>Postman</li>
-  <li>Strapi</li>
-</ul>
-
-
-[ My Computer Career ] <br>
-
-ITSA: Information Technology Security Administrator <br>
-
-💾 CompTIA: <br>
-<ul>
-  <li>CompTIA A+</li>
-  <li>CompTIA Security+</li>
-  <li>CompTIA Network+</li>
-  <li>CompTIA Server+</li>
-</ul>
-<br>
-💾 Microsoft Technology Associate: <br>
-<ul>
-  <li>MTA Security</li>
-  <li>MTA Network</li>
-  <li>MTA Server</li>
-</ul>
-💾 Linux Essentials <br>
-400+ hours: ITSA - Information Technology Security & Administration <br>
 
 
 ## Connect with me
