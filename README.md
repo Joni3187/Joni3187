@@ -40,7 +40,7 @@ I’m interested in Web Development and look forward to collaborate on Web Devel
 
 | **MIT xPRO**                          | **My Computer Career** |
 |---------------------------------------|------------------------|
-| **Full Stack Developer - MERN Stack** | **ITSA: Information Technology Security Administrator** |
+| **Full Stack Developer - MERN Stack** | **IT Security Administrator** |
 | 💻 **Front End Dev**                  | 💾 **CompTIA Training** |
 | - HTML                                | - A+                   |
 | - CSS                                 | - Security+            |
@@ -51,9 +51,8 @@ I’m interested in Web Development and look forward to collaborate on Web Devel
 | - Express JS                          | - MTA Network          |
 | - NPM                                 | - MTA Server           |
 | - GraphQL                             | 💾 **Linux Essentials** |
-| - Postman                             | - Linux |
+| - Postman                             | - Linux                   |
 | - Strapi                              | 📎 400+ hours: ITSA Training |
-
 
 
 ## Connect with me
